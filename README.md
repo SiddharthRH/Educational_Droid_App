@@ -47,6 +47,7 @@
 ---
 
 ## 📱 **Screenshots / QR Code**
+<img src="./qr-code.png" alt="App QR Code" width="250" />
 
 
 
