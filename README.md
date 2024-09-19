@@ -95,7 +95,7 @@ When creating lessons, provide the **YouTube Video ID** to fetch and display the
 
 Feel free to download and test the app. For any feedback or suggestions, please reach out to us:
 
-- **Email**: support@eduapp.com  
+- **Email**: lms.app.platform@gmail.com
 - **Community Forum**: [EduApp Support](https://community.eduapp.com)
 
 ---
